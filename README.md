@@ -42,14 +42,14 @@ I'm a passionate Computer Engineer, Graduate Student, and AI Enthusiast with exp
 
 
 ### 📜 Certificates & Training
-- 🏅 **Introduction to Career Skills in Software Development** - LinkedIn, May 2024
-- 🏅 **Learning Regular Expressions** - LinkedIn, May 2024
-- 🏅 **Selenium Essential Training** - LinkedIn, May 2024
-- 🏅 **Data Analysis with Python** - FreeCodeCamp, Jan 2022
-- 🏅 **Responsive Web Design** - FreeCodeCamp, Feb 2022
-- 🏅 **Python for Machine Learning** - Great Learning, Jun 2021
-- 🏅 **Python Fundamentals for Beginners** - Great Learning, Jun 2021
-- 🏅 **Java Programming** - Great Learning, Jun 2021
+- 🏅 **Introduction to Career Skills in Software Development** | LinkedIn, May 2024
+- 🏅 **Learning Regular Expressions** | LinkedIn, May 2024
+- 🏅 **Selenium Essential Training** | LinkedIn, May 2024
+- 🏅 **Responsive Web Design** | FreeCodeCamp, Feb 2022
+- 🏅 **Data Analysis with Python** | FreeCodeCamp, Jan 2022
+- 🏅 **Python for Machine Learning** | Great Learning, Jun 2021
+- 🏅 **Python Fundamentals for Beginners** | Great Learning, Jun 2021
+- 🏅 **Java Programming** | Great Learning, Jun 2021
 
 
 ### 📈 GitHub Stats
