@@ -4,7 +4,6 @@ Welcome to my GitHub profile!
 
 I'm a passionate Computer Engineer, Graduate Student, and AI Enthusiast with expertise in software development, data analytics, and front-end & back-end development.
 
-
 ### 👨‍💻 Technical Skills
 
 #### Programming Languages
@@ -22,13 +21,15 @@ I'm a passionate Computer Engineer, Graduate Student, and AI Enthusiast with exp
 #### Scripting Language
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### Frameworks
+#### Frameworks & Libraries
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 #### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### Tools & Technologies
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -40,7 +41,6 @@ I'm a passionate Computer Engineer, Graduate Student, and AI Enthusiast with exp
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
 ### 📜 Certificates & Training
 - 🏅 **Introduction to Career Skills in Software Development** | LinkedIn, May 2024
 - 🏅 **Learning Regular Expressions** | LinkedIn, May 2024
@@ -51,10 +51,8 @@ I'm a passionate Computer Engineer, Graduate Student, and AI Enthusiast with exp
 - 🏅 **Python Fundamentals for Beginners** | Great Learning, Jun 2021
 - 🏅 **Java Programming** | Great Learning, Jun 2021
 
-
 ### 📈 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhrumiPrajapati&layout=compact&theme=default&langs_count=8)
-
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhrumiprajapati)
