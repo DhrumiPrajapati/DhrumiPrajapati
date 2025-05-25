@@ -64,8 +64,8 @@ Currently, I’m focused on honing my abilities in **data analytics, predictive 
 
 ## 📂 Recent Projects
 🔸 **[ExplainEDU](https://github.com/DhrumiPrajapati/ExplainEDU)** – Predicting student outcomes with explainable AI.  
-🔸 **[BudgetBasket](https://github.com/DhrumiPrajapati/Food-Price-Analysis)** – Web scraping and price comparison project using Java and Selenium.  
-🔸 **[Gemini Clone](https://github.com/DhrumiPrajapati/Gemini-Clone)** – A Gemini-inspired AI assistant web app built with ReactJS and JavaScript.  
+🔸 **[BudgetBasket](https://github.com/DhrumiPrajapati/Budget_Basket)** – Web scraping and price comparison project using Java and Selenium.  
+🔸 **[Gemini Clone](https://github.com/DhrumiPrajapati/Gemini_Clone)** – A Gemini-inspired AI assistant web app built with ReactJS and JavaScript.  
 🔸 **[Superstore Dataset Dashboard](https://github.com/DhrumiPrajapati/InsightHR)** – Data visualization and business insights using Power BI.  
 🔸 **[HR Dataset Dashboard](https://github.com/DhrumiPrajapati/StoreVision)** – Power BI dashboards providing insights into HR metrics and workforce trends.  
 
