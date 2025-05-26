@@ -4,6 +4,7 @@ Welcome to my GitHub profile!
 
 I’m a **Computer Engineer, Graduate Student in Applied Computing (AI)**, and a passionate **Software Developer** and **Data Enthusiast**. I enjoy working on **full-stack applications**, **machine learning projects**, and exploring ways to solve real-world problems through technology.
 
+
 ## 👩‍💻 About Me
 
 As a curious and driven individual, I love diving into both **software engineering** and **data analysis** challenges.  
@@ -68,6 +69,8 @@ Currently, I’m focused on honing my abilities in **data analytics, predictive 
 🔸 **[Gemini Clone](https://github.com/DhrumiPrajapati/Gemini_Clone)** – A Gemini-inspired AI assistant web app built with ReactJS and JavaScript.  
 🔸 **[StoreVision](https://github.com/DhrumiPrajapati/StoreVision)** – Data visualization and business insights using Power BI.  
 🔸 **[InsightHR](https://github.com/DhrumiPrajapati/InsightHR)** – Power BI dashboards providing insights into HR metrics and workforce trends.  
+🔸 **[ToDoList](https://github.com/DhrumiPrajapati/TodoList)** – Full-Stack Task management web app built with Django.
+
 
 ## 📈 GitHub Contributions & Activity
 
@@ -82,6 +85,6 @@ Currently, I’m focused on honing my abilities in **data analytics, predictive 
 
 ## 🌐 Let’s Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhrumiprajapati)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/DhrumiPrajapati)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dhrumiprajapati.github.io/Portfolio/)
 
 Thanks for stopping by! Let's build something amazing together. 🚀
