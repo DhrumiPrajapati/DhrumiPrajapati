@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I’m a **Computer Engineer, Graduate Student in Applied Computing (AI)**, and a passionate **Software Developer** and **Data Enthusiast**. I enjoy working on **full-stack applications**, **machine learning projects**, and exploring ways to solve real-world problems through technology.
+I’m a **Computer Engineer, Graduate Student in Applied Computing (AI Stream)**, and a passionate **Software Developer** and **Data Enthusiast**. I enjoy working on **full-stack applications**, **machine learning projects**, and exploring ways to solve real-world problems through technology.
 
 
 ## 👩‍💻 About Me
