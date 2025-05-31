@@ -11,7 +11,7 @@ As a curious and driven individual, I love diving into both **software engineeri
 I’m experienced in developing **scalable web applications**, creating **insightful data visualizations**, and applying **AI and machine learning models** to extract actionable insights.  
 
 With diverse and strong fundamental skills, I enjoy collaborating on projects that push boundaries and drive innovation.  
-Currently, I’m focused on honing my abilities in **data analytics, predictive modeling**, and **full-stack development**, while also exploring **cloud technologies** and **DevOps practices**.
+Currently, I’m focused on honing my abilities in **data analytics, data science**, and **full-stack development**, while also exploring **cloud technologies** and **DevOps practices**.
 
 🌱 **Always learning and evolving.**  
 
