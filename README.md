@@ -70,6 +70,7 @@ Currently, I’m focused on honing my abilities in **data analytics, data scienc
 🔸 **[StoreVision](https://github.com/DhrumiPrajapati/StoreVision)** – Data visualization and business insights using Power BI.  
 🔸 **[InsightHR](https://github.com/DhrumiPrajapati/InsightHR)** – Power BI dashboards providing insights into HR metrics and workforce trends.  
 🔸 **[ToDoList](https://github.com/DhrumiPrajapati/TodoList)** – Full-Stack Task management web app built with Django.
+🔸 **[CreditInsight](https://github.com/DhrumiPrajapati/CreditInsight)** – Predicting Loan Default Risk Using ML.
 
 
 ## 📈 GitHub Contributions & Activity
