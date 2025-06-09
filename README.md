@@ -89,4 +89,4 @@ Currently, I’m focused on honing my abilities in **data analytics, data scienc
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhrumiprajapati)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dhrumiprajapati.github.io/Portfolio/)
 
-Thanks for stopping by! Let's build something amazing together. 🚀
+Thanks for stopping by! Let's build something amazing together.
