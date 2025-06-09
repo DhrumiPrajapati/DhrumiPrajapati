@@ -69,9 +69,9 @@ Currently, I’m focused on honing my abilities in **data analytics, data scienc
 🔸 **[Gemini Clone](https://github.com/DhrumiPrajapati/Gemini_Clone)** – A Gemini-inspired AI assistant web app built with ReactJS and JavaScript.  
 🔸 **[StoreVision](https://github.com/DhrumiPrajapati/StoreVision)** – Data visualization and business insights using Power BI.  
 🔸 **[InsightHR](https://github.com/DhrumiPrajapati/InsightHR)** – Power BI dashboards providing insights into HR metrics and workforce trends.  
-🔸 **[ToDoList](https://github.com/DhrumiPrajapati/TodoList)** – Full-Stack Task management web app built with Django.   
-🔸 **[CreditInsight](https://github.com/DhrumiPrajapati/CreditInsight)** – Predicting Loan Default Risk Using ML.    
-🔸 **[Attendance Application](https://github.com/DhrumiPrajapati/Attendance_App)** – Full-Stack Application for attendance and payroll calculation.
+🔸 **[ToDoList](https://github.com/DhrumiPrajapati/TodoList)** – Full-stack task management web app built with Django.   
+🔸 **[CreditInsight](https://github.com/DhrumiPrajapati/CreditInsight)** – Predicting loan default risk using ML.    
+🔸 **[EliteTrack](https://github.com/DhrumiPrajapati/EliteTrack)** – A full-stack application for attendance and payroll calculation
 
 
 ## 📈 GitHub Contributions & Activity
