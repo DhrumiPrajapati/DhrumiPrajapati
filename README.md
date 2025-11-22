@@ -1,80 +1,83 @@
-# Hi there, I'm Dhrumi! 👋
+# Hi there, I'm Dhrumi! 👋  
+**Data Analyst • Machine Learning Developer • Master of Applied Computing (AI Stream) Graduate**
 
-Welcome to my GitHub profile!
+Welcome to my GitHub profile! I’m excited to share the work I’ve been building!
 
-I’m a **Computer Engineer, Graduate Student in Applied Computing (Artificial Intelligence Stream)**, and a passionate **Software Developer** and **Data Enthusiast**. I enjoy working on **full-stack applications**, **machine learning projects**, and exploring ways to solve real-world problems through technology.
+I enjoy digging into datasets, finding patterns, and turning them into models, dashboards, or tools that actually make sense to people.  
+I like exploring how data behaves, testing ideas, improving accuracy, and building software features when they support the analysis.  
+Whether it’s an ML workflow, a Power BI dashboard, or an automated scraper, I enjoy the entire process from start to finish.
 
-
-## 👩‍💻 About Me
-
-As a curious and driven individual, I love diving into both **software engineering** and **data analysis** challenges.  
-I’m experienced in developing **scalable web applications**, creating **insightful data visualizations**, and applying **AI and machine learning models** to extract actionable insights.  
-
-With diverse and strong fundamental skills, I enjoy collaborating on projects that push boundaries and drive innovation.  
-Currently, I’m focused on honing my abilities in **data analytics, data science**, and **full-stack development**, while also exploring **cloud technologies** and **DevOps practices**.
-
-🌱 **Always learning and evolving.**  
 
 ## 💻 Tech Stack
 
-### 🖥️ Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🌐 Web Development & Frameworks
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-00599C?style=for-the-badge)
-
-### 📊 Data Science & Analysis
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### 📊 Data Analysis & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+### 🗄️ Databases & Data Engineering
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
+![ETL](https://img.shields.io/badge/ETL%20Pipelines-4CAF50?style=for-the-badge)
+![Hadoop](https://img.shields.io/badge/Hadoop-FFCC00?style=for-the-badge&logo=apachehadoop)
+![Azure ML](https://img.shields.io/badge/Azure%20ML-0089D6?style=for-the-badge&logo=microsoftazure)
 
-### 🛠️ Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+### 🧩 Software Development (SDLC & Agile)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Agile](https://img.shields.io/badge/Agile(Scrum)-0A66C2?style=for-the-badge)
+![SDLC](https://img.shields.io/badge/SDLC-333333?style=for-the-badge)
 
-### 🧩 Other Technologies
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Regular Expressions](https://img.shields.io/badge/Regex-FFCA28?style=for-the-badge)
-![Responsive Web Design](https://img.shields.io/badge/Responsive%20Design-4CAF50?style=for-the-badge)
-![Explainable AI](https://img.shields.io/badge/XAI-03A9F4?style=for-the-badge)
 
-## 📂 Recent Projects
+## 🏢 Experience
+
+### **Jaguar Land Rover (JLR)**  
+*Summer Project Collaboration – Semiconductor Engineering Team*  
+- Worked across 4+ Agile sprints  
+- Used Python, OpenCV, and Linux to improve image-processing workflows by 15%  
+- Performed benchmarking and debugging to improve reliability by 20%
+
+### **Eliteware Solutions – Full-Stack Python Developer Intern**  
+- Improved system performance by 30% and reduced delivery time by 20% 
+- Contributed to stand-ups, sprint planning, and code reviews
+- Worked across the full development cycle
+  
+### **Tntra Innovation Ecosystem – Web Developer Intern**  
+- Fixed real coding issues using SDLC practices
+- Connected front-end interfaces with backend APIs
+
+
+## 📂 Projects
+
 ### 📊 Data Analytics & Machine Learning
 🔸 **[ExplainEDU](https://github.com/DhrumiPrajapati/ExplainEDU)** – Predicting student outcomes with explainable AI.  
 🔸 **[CreditInsight](https://github.com/DhrumiPrajapati/CreditInsight)** – Predicting loan default risk using ML.  
 🔸 **[StoreVision](https://github.com/DhrumiPrajapati/StoreVision)** – Data visualization and business insights using Power BI.  
 🔸 **[InsightHR](https://github.com/DhrumiPrajapati/InsightHR)** – Power BI dashboards providing insights into HR metrics and workforce trends.  
 
-### 🧑‍💻 Software & Web Development
+
 🔸 **[BudgetBasket](https://github.com/DhrumiPrajapati/Budget_Basket)** – Web scraping and price comparison project using Java and Selenium.  
 🔸 **[Gemini Clone](https://github.com/DhrumiPrajapati/Gemini_Clone)** – A Gemini-inspired AI assistant web app built with ReactJS and JavaScript.  
 🔸 **[ToDoList](https://github.com/DhrumiPrajapati/TodoList)** – Full-stack task management web app built with Django.   
 🔸 **[EliteTrack](https://github.com/DhrumiPrajapati/EliteTrack)** – A full-stack application for attendance and payroll calculation
+
 
 ## 📈 GitHub Contributions & Activity
 
@@ -91,4 +94,4 @@ Currently, I’m focused on honing my abilities in **data analytics, data scienc
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhrumiprajapati)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dhrumiprajapati.github.io/Portfolio/)
 
-Thanks for stopping by! Let's build something amazing together.
+Thanks for visiting my profile! Feel free to explore my work or reach out to connect.
